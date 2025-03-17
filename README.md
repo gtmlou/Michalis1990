@@ -4,13 +4,13 @@
 This is a simple example of a README file written in Markdown.
 
 ## Features
-- Uses Markdown syntax
-- Can be displayed properly on GitHub
-- Includes headers, lists, and links
+- Written in Markdown 
+- Can be displayed on GitHub
+- Includes headers and lists
 
 ## Usage
-To create a `README.md` file for your GitHub repository, follow these steps:
+To create a README.md file, follow these steps:
 1. Create a new repository on GitHub.
-2. Add a `README.md` file.
-3. Write your content using Markdown.
+2. Add a README.md file.
+3. Write the content in Markdown.
 4. Commit and push the file to GitHub.
