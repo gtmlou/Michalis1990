@@ -1,6 +1,5 @@
 # Example of README.md
 *Αυτό είναι το πρώτο μου αποθετήριο*
-# Example of README.md
 
 This is a simple example of a README file written in Markdown.
 
